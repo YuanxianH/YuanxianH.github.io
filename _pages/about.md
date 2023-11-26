@@ -14,7 +14,7 @@ redirect_from:
 ## Publications
 
 \* denotes equal contributions and &dagger; denotes the corresponding author.
-<br><br>
+<br>
 
 <div class="before-item" >
   <div class="pubimg">
@@ -62,18 +62,80 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
+    <img  class="pubpic" src="../images/pub_hdmrrt.png" >
+  </div>
+  <div class="pubdsp">
+    <span class=pubtitle > 
+      HDM-RRT: A Fast HD-Map-Guided Motion Planning Algorithm for Autonomous Driving in the Campus Environment<br>
+    </span>
+    <span class=pubauthor > 
+      Xiaomin Guo, Yongxing Cao, Jian Zhou, <b>Yuanxian Huang</b>, Bijun Li<sup>&dagger;</sup>
+    </span>
+    <span class=publoc > 
+      Remote Sensing, 2023 (IF:5.0)<br>
+    </span>
+    <span class=publink>
+      [<a href="https://www.mdpi.com/2072-4292/15/2/487">Paper</a>]
+    <br></span>
+  </div>
+</div>
+
+<div class="before-item" >
+  <div class="pubimg">
+    <img  class="pubpic" src="../images/pub_its.png" >
+  </div>
+  <div class="pubdsp">
+    <span class=pubtitle > 
+      Lane Information Extraction for High Definition Maps Using Crowdsourced Data<br>
+    </span>
+    <span class=pubauthor > 
+      Jian Zhou, Yuan Guo, Yaoan Bian, <b>Yuanxian Huang</b>, Bijun Li
+      <br>
+    </span>
+    <span class=publoc > 
+      IEEE Transactions on Intelligent Transportation Systems, 2022 (IF:8.5)<br>
+    </span>
+    <span class=publink>
+      [<a href="https://ieeexplore.ieee.org/document/9956852">Paper</a>]
+    <br></span>
+  </div>
+</div>
+
+<div class="before-item" >
+  <div class="pubimg">
+    <img  class="pubpic" src="../images/pub_cvci.png" >
+  </div>
+  <div class="pubdsp">
+    <span class=pubtitle > 
+      Cooperative Motion Planning with 3D Spatio-temporal Map for Connected and Automated Vehicles in Intersection<br>
+    </span>
+    <span class=pubauthor > 
+      Yongxing Cao, Bijun Li, Hongjuan Zhang<sup>&dagger;</sup>, Duanfeng Chu, <b>Yuanxian Huang</b>, Xiaomin Guo
+      <br>
+    </span>
+    <span class=publoc > 
+      CVCI, 2022<br>
+    </span>
+    <span class=publink>
+      [<a href="https://ieeexplore.ieee.org/document/9965066">Paper</a>]
+    <br></span>
+  </div>
+</div>
+
+<div class="before-item" >
+  <div class="pubimg">
     <img  class="pubpic" src="../images/pub_isprs.png" >
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
-      ROLL-SENSITIVE ONLINE CAMERA ORIENTATION DETERMINATION ON THE STRUCTURED ROAD<br>
+      Roll-Sensitive Online Camera Orientation Determination On The Structured Road<br>
     </span>
     <span class=pubauthor > 
       <b>Yuanxian Huang</b>, Jian Zhou<sup>&dagger;</sup>, Bijun Li, Jinsheng Xiao, Yongxing Cao
       <br>
     </span>
     <span class=publoc > 
-      ISPRS Congress 2022<br>
+      ISPRS Congress, 2022<br>
     </span>
     <span class=publink>
       [<a href="https://isprs-archives.copernicus.org/articles/XLIII-B2-2022/687/2022/">Paper</a>]
@@ -94,7 +156,7 @@ redirect_from:
       <br>
     </span>
     <span class=publoc > 
-      Geomatics and Information Science of Wuhan University<br>
+      Geomatics and Information Science of Wuhan University, 2022<br>
     </span>
     <span class=publink>
       [<a href="http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210614">Paper</a>]
