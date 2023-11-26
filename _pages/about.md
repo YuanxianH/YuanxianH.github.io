@@ -8,18 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<html>
-<head>
-<style>
-.pubimg_cus {
-  width: 200px
-}
-</style>
-</head>
-<body>
-
 ## News
-
+- hello
 
 ## Publications
 
@@ -27,7 +17,7 @@ redirect_from:
 <br>
 
 <div class="before-item" >
-  <div class="pubimg_cus">
+  <div class="pubimg">
     <img  class="pubpic" src="../images/pub_roadformer.png" width=200px>
   </div>
   <div class="pubdsp">
@@ -48,7 +38,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg_cus">
+  <div class="pubimg">
     <img  class="pubpic" src="../images/pub_menet.gif" width=200px>
   </div>
   <div class="pubdsp">
@@ -71,7 +61,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg_cus">
+  <div class="pubimg">
     <img  class="pubpic" src="../images/pub_hdmrrt.png" width=200px>
   </div>
   <div class="pubdsp">
@@ -92,7 +82,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg_cus">
+  <div class="pubimg">
     <img  class="pubpic" src="../images/pub_its.png" width=200px>
   </div>
   <div class="pubdsp">
@@ -113,7 +103,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg_cus">
+  <div class="pubimg">
     <img  class="pubpic" src="../images/pub_cvci.png" width=200px>
   </div>
   <div class="pubdsp">
@@ -134,7 +124,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg_cus">
+  <div class="pubimg">
     <img  class="pubpic" src="../images/pub_isprs.png" width=200px>
   </div>
   <div class="pubdsp">
@@ -155,7 +145,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg_cus">
+  <div class="pubimg">
     <img  class="pubpic" src="../images/pub_xuebao.png" width=200px>
   </div>
   <div class="pubdsp">
