@@ -325,3 +325,59 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.step { border-radius: 50%; 
+	-moz-border-radius: 50%; 
+	-webkit-border-radius: 50%; 
+	width: 35px; 
+	height: 35px; 
+	background: #4679BD; 
+	color: #FFF; 
+	float: left;
+	text-align: center;
+	font-size: 24px;
+	padding-top: 5.5px;
+	margin: 5px 15px 0px 0px;
+	font-family: 'Montserrat', Helvetica, sans-serif; }
+
+/* for publications */
+.intro {
+	display: flex;
+	margin-bottom: 10px;
+  }
+
+
+.before-item {
+	display: flex;
+	margin-bottom: 10px;
+	padding-left: 30px;
+  }
+
+.pubpic { 
+	width: 200px ;
+	padding-right: 10px;
+}
+
+.pubtitle { 
+	line-height: 10px; 
+	font-family: 'Merriweather', Georgia, Times; 
+	font-size: 16px; 
+}
+
+.pubauthor { 
+	line-height: 10px; 
+	font-family: 'Merriweather', Georgia, Times; 
+	font-size: 14px; 
+}
+
+.publoc { 
+	line-height: 10px; 
+	font-family: 'Merriweather', Georgia, Times; 
+	font-size: 16px; 
+	color:rgb(148, 46, 46)
+}
+
+.publink { 
+	line-height: 10px; 
+	font-family: 'Merriweather', Georgia, Times; 
+	font-size: 14px; 
+}
