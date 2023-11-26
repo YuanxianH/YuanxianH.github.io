@@ -18,7 +18,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_roadformer.png" >
+    <img  class="pubpic" src="../images/pub_roadformer.png" width=200px>
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
@@ -39,7 +39,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_menet.gif" >
+    <img  class="pubpic" src="../images/pub_menet.gif" width=200px>
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
@@ -70,6 +70,7 @@ redirect_from:
     </span>
     <span class=pubauthor > 
       Xiaomin Guo, Yongxing Cao, Jian Zhou, <b>Yuanxian Huang</b>, Bijun Li<sup>&dagger;</sup>
+      <br>
     </span>
     <span class=publoc > 
       Remote Sensing, 2023 (IF:5.0)<br>
