@@ -80,3 +80,24 @@ redirect_from:
     <br></span>
   </div>
 </div>
+
+<div class="before-item" >
+  <div class="pubimg">
+    <img  class="pubpic" src="../images/pub_xuebao.png" >
+  </div>
+  <div class="pubdsp">
+    <span class=pubtitle > 
+      Camera-LiDAR Fusion for Object Detection, Tracking and Prediction<br>
+    </span>
+    <span class=pubauthor > 
+      <b>Yuanxian Huang</b>, Bijun Li, Qi Huang, Jian Zhou<sup>&dagger;</sup>, Lanlan Wang, Jialin Zhu
+      <br>
+    </span>
+    <span class=publoc > 
+      Geomatics and Information Science of Wuhan University<br>
+    </span>
+    <span class=publink>
+      [<a href="http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210614">Paper</a>]
+    <br></span>
+  </div>
+</div>
