@@ -17,9 +17,9 @@ redirect_from:
 <br>
 
 <div class="before-item" >
-  <div class="pubimg">
+  <!-- <div class="pubimg"> -->
     <img  class="pubpic" src="../images/pub_roadformer.png" width=200px>
-  </div>
+  <!-- </div> -->
   <div class="pubdsp">
     <span class=pubtitle > 
       Separated RoadTopoFormer<br>
@@ -38,9 +38,9 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg">
+  <!-- <div class="pubimg"> -->
     <img  class="pubpic" src="../images/pub_menet.gif" width=200px>
-  </div>
+  <!-- </div> -->
   <div class="pubdsp">
     <span class=pubtitle > 
       MENet: Map-enhanced 3D object detection in bird’s-eye view for LiDAR point clouds<br>
