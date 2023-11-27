@@ -18,7 +18,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="img-box">
-    <img  class="pubpic" src="../images/pub_roadformer.png" width=200px>
+    <img  class="pubpic" src="../images/pub_roadformer.png">
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
