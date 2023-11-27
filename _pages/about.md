@@ -124,7 +124,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="img-box">
+  <div class="pubimg">
     <img  class="pubpic" src="../images/pub_isprs.png" width=200px>
   </div>
   <div class="pubdsp">
@@ -145,7 +145,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="img-box">
+  <div class="pubimg">
     <img  class="pubpic" src="../images/pub_xuebao.png" width=200px>
   </div>
   <div class="pubdsp">
