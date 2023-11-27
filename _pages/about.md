@@ -38,9 +38,9 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <!-- <div class="pubimg"> -->
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_menet.gif" width=200px>
-  <!-- </div> -->
+  </div>
   <div class="pubdsp">
     <span class=pubtitle > 
       MENet: Map-enhanced 3D object detection in bird’s-eye view for LiDAR point clouds<br>
@@ -61,7 +61,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg">
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_hdmrrt.png" width=200px>
   </div>
   <div class="pubdsp">
@@ -82,7 +82,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg">
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_its.png" width=200px>
   </div>
   <div class="pubdsp">
@@ -103,7 +103,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg">
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_cvci.png" width=200px>
   </div>
   <div class="pubdsp">
@@ -124,7 +124,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg">
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_isprs.png" width=200px>
   </div>
   <div class="pubdsp">
@@ -145,7 +145,7 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg">
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_xuebao.png" width=200px>
   </div>
   <div class="pubdsp">
