@@ -17,9 +17,9 @@ redirect_from:
 <br>
 
 <div class="before-item" >
-  <!-- <div class="pubimg"> -->
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_roadformer.png" width=200px>
-  <!-- </div> -->
+  </div>
   <div class="pubdsp">
     <span class=pubtitle > 
       Separated RoadTopoFormer<br>
