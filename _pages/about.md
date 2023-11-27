@@ -17,9 +17,9 @@ redirect_from:
 <br>
 
 <div class="before-item" >
-  <!-- <div class="img-box"> -->
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_roadformer.png" width=200px>
-  <!-- </div> -->
+  </div>
   <div class="pubdsp">
     <span class=pubtitle > 
       Separated RoadTopoFormer<br>
@@ -38,9 +38,9 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <!-- <div class="img-box"> -->
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_menet.gif" width=200px>
-  <!-- </div> -->
+  </div>
   <div class="pubdsp">
     <span class=pubtitle > 
       MENet: Map-enhanced 3D object detection in bird’s-eye view for LiDAR point clouds<br>
@@ -61,9 +61,9 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <!-- <div class="img-box"> -->
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_hdmrrt.png" width=200px>
-  <!-- </div> -->
+  </div>
   <div class="pubdsp">
     <span class=pubtitle > 
       HDM-RRT: A Fast HD-Map-Guided Motion Planning Algorithm for Autonomous Driving in the Campus Environment<br>
@@ -82,9 +82,9 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <!-- <div class="img-box"> -->
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_its.png" width=200px>
-  <!-- </div> -->
+  </div>
   <div class="pubdsp">
     <span class=pubtitle > 
       Lane Information Extraction for High Definition Maps Using Crowdsourced Data<br>
@@ -103,9 +103,9 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <!-- <div class="img-box"> -->
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_cvci.png" width=200px>
-  <!-- </div> -->
+  </div>
   <div class="pubdsp">
     <span class=pubtitle > 
       Cooperative Motion Planning with 3D Spatio-temporal Map for Connected and Automated Vehicles in Intersection<br>
@@ -124,9 +124,9 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <!-- <div class="img-box"> -->
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_isprs.png" width=200px>
-  <!-- </div> -->
+  </div>
   <div class="pubdsp">
     <span class=pubtitle > 
       Roll-Sensitive Online Camera Orientation Determination On The Structured Road<br>
@@ -145,9 +145,9 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <!-- <div class="img-box"> -->
+  <div class="img-box">
     <img  class="pubpic" src="../images/pub_xuebao.png" width=200px>
-  <!-- </div> -->
+  </div>
   <div class="pubdsp">
     <span class=pubtitle > 
       Camera-LiDAR Fusion for Object Detection, Tracking and Prediction<br>
