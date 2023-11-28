@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I'm a master stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan University](https://en.whu.edu.cn/), supervised by Prof. Bijun Li and Jian Zhou. Previously, I received my B.Eng. from [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University. My interest mainly focus on autonomous driving perception system, including 2D/3D object detection, BEV segmantic segmentation, online HD map construction, topology reasoning, occupancy network and so on. 
+
 ## News
 - hello
 
@@ -27,7 +29,7 @@ redirect_from:
   </font>
 </p>
 
-<img style="float: left; margin:5px 10px" src="../images/pub_menet.gif" width=200px height=110px>
+<img style="float: left; margin:5px 10px" src="../images/pub_menet.gif" width=200px height=150px>
 
 ### MENet: Map-enhanced 3D object detection in bird’s-eye view for LiDAR point clouds
 <p style="line-height:1.0">
