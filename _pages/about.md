@@ -62,7 +62,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_hdmrrt.png" width=200px>
+    <img  class="pubpic" src="../images/pub_hdmrrt.png">
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
@@ -83,7 +83,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_its.png" width=200px>
+    <img  class="pubpic" src="../images/pub_its.png" >
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
@@ -104,7 +104,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_cvci.png" width=200px>
+    <img  class="pubpic" src="../images/pub_cvci.png">
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
@@ -125,7 +125,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_isprs.png" width=200px>
+    <img  class="pubpic" src="../images/pub_isprs.png" >
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
@@ -146,7 +146,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_xuebao.png" width=200px>
+    <img  class="pubpic" src="../images/pub_xuebao.png" >
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
