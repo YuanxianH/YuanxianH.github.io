@@ -18,7 +18,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_roadformer.png">
+    <img  class="pubpic" src="../images/pub_roadformer.png" width=200px>
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
@@ -38,9 +38,9 @@ redirect_from:
 </div>
 
 <div class="before-item" >
-  <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_menet.gif">
-  </div>
+  <!-- <div class="pubimg"> -->
+    <img  class="pubpic" src="../images/pub_menet.gif" width=200px>
+  <!-- </div> -->
   <div class="pubdsp">
     <span class=pubtitle > 
       MENet: Map-enhanced 3D object detection in bird’s-eye view for LiDAR point clouds<br>
@@ -62,7 +62,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_hdmrrt.png">
+    <img  class="pubpic" src="../images/pub_hdmrrt.png" width=200px>
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
@@ -83,7 +83,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_its.png" >
+    <img  class="pubpic" src="../images/pub_its.png" width=200px>
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
@@ -104,7 +104,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_cvci.png">
+    <img  class="pubpic" src="../images/pub_cvci.png" width=200px>
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
@@ -125,7 +125,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_isprs.png" >
+    <img  class="pubpic" src="../images/pub_isprs.png" width=200px>
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
@@ -146,7 +146,7 @@ redirect_from:
 
 <div class="before-item" >
   <div class="pubimg">
-    <img  class="pubpic" src="../images/pub_xuebao.png" >
+    <img  class="pubpic" src="../images/pub_xuebao.png" width=200px>
   </div>
   <div class="pubdsp">
     <span class=pubtitle > 
