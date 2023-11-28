@@ -16,7 +16,7 @@ redirect_from:
 \* denotes equal contributions and &dagger; denotes the corresponding author.
 <br>
 
-<img style="float: left; margin:5px 10px" src="../images/pub_roadformer.png" width=200px height=95px>
+<img style="float: left; margin:5px 10px" src="../images/pub_roadformer.png" width=200px height=110px>
 <p style="line-height:1.0">
   <span class=pubtitle > 
       Separated RoadTopoFormer<br>
@@ -32,10 +32,10 @@ redirect_from:
     <a href="https://arxiv.org/abs/2307.01557">[Paper]</a>
     <br>
   </span>
-</p>
 <br>
+</p>
 
-<img style="float: left; margin:5px 10px" src="../images/pub_menet.gif" width=200px height=95px>
+<img style="float: left; margin:5px 10px" src="../images/pub_menet.gif" width=200px height=110px>
 <p style="line-height:1.0">
   <span class=pubtitle > 
       MENet: Map-enhanced 3D object detection in bird’s-eye view for LiDAR point clouds<br>
@@ -51,8 +51,8 @@ redirect_from:
       <a href="https://www.sciencedirect.com/science/article/pii/S1569843223001590">[Paper]</a>
       <a href="https://github.com/WHU-USI3DV/MENet">[Code]</a>
   <br></span>
-</p>
 <br>
+</p>
 
 <img style="float: left; margin:5px 10px" src="../images/pub_hdmrrt.png" width=200px height=110px>
 <p style="line-height:1.0">
@@ -69,8 +69,8 @@ redirect_from:
     <span class=publink>
       <a href="https://www.mdpi.com/2072-4292/15/2/487">[Paper]</a>
   <br></span>
-</p>
 <br>
+</p>
 
 <img style="float: left; margin:5px 10px" src="../images/pub_its.png" width=200px height=110px>
 <p style="line-height:1.0">
@@ -87,8 +87,8 @@ redirect_from:
     <span class=publink>
       <a href="https://ieeexplore.ieee.org/document/9956852">[Paper]</a>
     <br></span>
-</p>
 <br>
+</p>
 
 <img style="float: left; margin:5px 10px" src="../images/pub_cvci.png" width=200px height=110px>
 <p style="line-height:1.0">
@@ -105,8 +105,8 @@ redirect_from:
     <span class=publink>
       <a href="https://ieeexplore.ieee.org/document/9965066">[Paper]</a>
     <br></span>
-</p>
 <br>
+</p>
 
 <img style="float: left; margin:5px 10px" src="../images/pub_isprs.png" width=200px height=110px>
 <p style="line-height:1.0">
@@ -123,8 +123,8 @@ redirect_from:
     <span class=publink>
       <a href="https://isprs-archives.copernicus.org/articles/XLIII-B2-2022/687/2022/">[Paper]</a>
     <br></span>
-</p>
 <br>
+</p>
 
 <img style="float: left; margin:5px 10px" src="../images/pub_xuebao.png" width=200px height=110px>
 <p style="line-height:1.0">
@@ -141,5 +141,5 @@ redirect_from:
     <span class=publink>
       <a href="http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210614">[Paper]</a>
     <br></span>
-</p>
 <br>
+</p>
