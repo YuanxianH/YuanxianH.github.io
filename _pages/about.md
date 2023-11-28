@@ -64,7 +64,7 @@ I'm a master stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Uni
   </font>
 </p>
 
-<img style="float: left; margin:5px 10px" src="../images/pub_cvci.png" width=200px height=110px>
+<img style="float: left; margin:5px 10px" src="../images/pub_cvci.png" width=200px height=90px>
 
 ### Cooperative Motion Planning with 3D Spatio-temporal Map for Connected and Automated Vehicles in Intersection
 <p style="line-height:1.0">
