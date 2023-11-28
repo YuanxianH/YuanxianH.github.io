@@ -106,7 +106,7 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
   <font size="2">
     September 2021 - Present<br/>
     Major: M.S. in Photogrammetry and Remote Sensing<br/>
-    Hornor: National Scholarship 2023
+    Hornor: National Scholarship 2023<br/>
   </font>
 </p>
 
@@ -117,6 +117,29 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
   <font size="2">
     September 2017 - July 2021<br/>
     Major: B.E. in Surveying and Mapping Engineering<br/>
-    Hornor: National Scholarship 2023
+    Hornor: National Scholarship 2023<br/>
+  </font>
+</p>
+
+## Experience
+<img style="float: left; margin:5px 10px" src="../images/exp_amd.png" width="90" height="90">
+
+### AMD
+<p style="line-height:1.0">
+  <font size="2">
+    March 2023 - October 2023<br/>
+    Position: Co-op/Intern, Algorithm R&D in AIG-AIE<br/>
+    Focus: Road Topology Reasoning, Model Pruning, Occupancy Network<br/>
+  </font>
+</p>
+
+<img style="float: left; margin:5px 10px" src="../images/exp_arcdrive.png" width="90" height="90">
+
+### ArchDrive
+<p style="line-height:1.0">
+  <font size="2">
+    March 2021 - June 2021<br/>
+    Position: Intern, Perception Algorithm<br/>
+    Focus: Lane Detection, Lane Keeping<br/>
   </font>
 </p>
