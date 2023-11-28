@@ -17,8 +17,8 @@ redirect_from:
 <br>
 
 <img style="float: left; margin:5px 10px" src="../images/pub_roadformer.png" width=200px height=92px>
-<div class="pubdsp">
-  <span class=pubtitle > 
+<span class=pubtitle > 
+<p style="line-height:1.0">
     Separated RoadTopoFormer<br>
   </span>
   <span class=pubauthor > 
@@ -29,26 +29,8 @@ redirect_from:
     Arxiv, 2023<br>
   </span>
   <span class=publink>
-    [<a href="https://arxiv.org/abs/2307.01557">Paper</a>]
+    <a href="https://arxiv.org/abs/2307.01557">[Paper]</a>
   <br></span>
-</div>
+</p>
 <br>
 
-<img style="float: left; margin:5px 10px" src="../images/pub_menet.gif" width=200px height=53px>
-<div class="pubdsp">
-  <span class=pubtitle > 
-    MENet: Map-enhanced 3D object detection in bird’s-eye view for LiDAR point clouds<br>
-  </span>
-  <span class=pubauthor > 
-    <b>Yuanxian Huang</b>, Jian Zhou<sup>&dagger;</sup>, Xicheng Li, Zhen Dong, Jinsheng Xiao, 
-    Shurui Wang, Hongjuan Zhang
-    <br>
-  </span>
-  <span class=publoc > 
-    JAG 2023 (IF:7.5)<br>
-  </span>
-  <span class=publink>
-    [<a href="https://www.sciencedirect.com/science/article/pii/S1569843223001590">Paper</a>]
-    [<a href="https://github.com/WHU-USI3DV/MENet">Code</a>]
-  <br></span>
-</div>
