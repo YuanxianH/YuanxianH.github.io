@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan University](https://en.whu.edu.cn/), supervised by Prof. Bijun Li and Jian Zhou. Previously, I received my B.Eng. from [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University. My interest mainly focus on autonomous driving perception system, including 2D/3D object detection, BEV segmantic segmentation, online HD map construction, topology reasoning, occupancy network and so on. 
+I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan University](https://en.whu.edu.cn/), supervised by Prof. Bijun Li and Jian Zhou. Previously, I received my B.Eng. from [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University. My interest mainly focus on autonomous driving perception system, including 2D/3D object detection, BEV segmantic segmentation, online HD map construction, topology reasoning, occupancy network and so on. 
 
-## News
-- hello
 
 ## Publications
 
@@ -97,5 +95,28 @@ I'm a master stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Uni
     <b>Yuanxian Huang</b>, Bijun Li, Qi Huang, Jian Zhou<sup>&dagger;</sup>, Lanlan Wang, Jialin Zhu<br/>
     Geomatics and Information Science of Wuhan University, 2022<br/>
     <a href="http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210614">[Paper]</a><br/>
+  </font>
+</p>
+
+## Education
+<img style="float: left; margin:5px 10px" src="../images/edu_whu.png" width="90" height="90">
+
+### Wuhan University (WHU)
+<p style="line-height:1.0">
+  <font size="2">
+    September 2021 - Present<br/>
+    Major: M.S. in Photogrammetry and Remote Sensing<br/>
+    Hornor: National Scholarship 2023
+  </font>
+</p>
+
+<img style="float: left; margin:5px 10px" src="../images/edu_whu.png" width="90" height="90">
+
+### Wuhan University (WHU)
+<p style="line-height:1.0">
+  <font size="2">
+    September 2017 - July 2021<br/>
+    Major: B.E. in Surveying and Mapping Engineering<br/>
+    Hornor: National Scholarship 2023
   </font>
 </p>
