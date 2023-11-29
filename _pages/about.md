@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan University](https://en.whu.edu.cn/), supervised by Prof. Bijun Li and Jian Zhou. Previously, I received my B.Eng. from [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University. My interest mainly focus on autonomous driving perception system, including 2D/3D object detection, BEV segmantic segmentation, online HD map construction, topology reasoning, occupancy network and so on. 
+I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan University](https://en.whu.edu.cn/), supervised by Prof. Bijun Li and Jian Zhou. Previously, I received my B.Eng. from [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University. My interest mainly focus on autonomous driving perception system, including 2D/3D object detection, BEV segmantic segmentation, online HD map construction, topology reasoning, occupancy network and so on. Free feel to contact me via yxhuang@whu.edu.cn.
 
 ## News
 - [2023/11] 🎂 I build this personal website.
