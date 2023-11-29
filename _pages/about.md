@@ -11,15 +11,15 @@ redirect_from:
 I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan University](https://en.whu.edu.cn/), supervised by Prof. Bijun Li and Jian Zhou. Previously, I received my B.Eng. from [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University. My interest mainly focus on autonomous driving perception system, including 2D/3D object detection, BEV segmantic segmentation, online HD map construction, topology reasoning, occupancy network and so on. 
 
 ## News
-- [2023/11] :birthday: I build this personal website.
-- [2023/10] :mortar_board: I received the Graduate National Scholarship, 2022-2023.
-- [2023/07] :2nd_place_medal: We won the 2nd place of [Autonomous Driving Challenge——OpenLane Topology](https://opendrivelab.com/AD23Challenge.html) in CVPR 2023 workshop. We published a technical report named [*Separated RoadTopoFormer*](https://arxiv.org/abs/2307.01557) to introduce our solution.
-- [2023/06] :page_facing_up: [*MENet*](https://www.sciencedirect.com/science/article/pii/S1569843223001590), a LiDAR detection method enhanced by HD map, was published in JAG(IF:7.5)
-- [2023/03] :briefcase: I went to AMD for an internship, working on the R&D of AI algorithms.
-- [2022/09] :1st_place_medal: We won the 1st place of [Intelligent Unmanned System Application Challenge](https://icaus2022.scimeeting.cn/cn/web/index/12954_990754__) in ICAUS 2022.
-- [2022/07] :page_facing_up: [*Camera-LiDAR Fusion for Object Detection, Tracking and Prediction*](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210614) was published in Geomatics and Information Science of Wuhan University
-- [2022/05] :page_facing_up: [*Roll-Sensitive Online Camera Orientation Determination On The Structured Road*](https://isprs-archives.copernicus.org/articles/XLIII-B2-2022/687/2022/), a camera calibration algorithm based on the vanish point, was published in ISPRS Congress 2022.
-- [2021/03] :briefcase: I went to ArchDrive for an internship, working on lane detection and lane keeping.
+- [2023/11] 🎂 I build this personal website.
+- [2023/10] 🎓 I received the Graduate National Scholarship, 2022-2023.
+- [2023/07] 🥈 We won the 2nd place of [Autonomous Driving Challenge——OpenLane Topology](https://opendrivelab.com/AD23Challenge.html) in CVPR 2023 workshop. We published a technical report named [*Separated RoadTopoFormer*](https://arxiv.org/abs/2307.01557) to introduce our solution.
+- [2023/06] 📄 [*MENet*](https://www.sciencedirect.com/science/article/pii/S1569843223001590), a LiDAR detection method enhanced by HD map, was published in JAG(IF:7.5)
+- [2023/03] 💼 I went to AMD for an internship, working on the R&D of AI algorithms.
+- [2022/09] 🥇 We won the 1st place of [Intelligent Unmanned System Application Challenge](https://icaus2022.scimeeting.cn/cn/web/index/12954_990754__) in ICAUS 2022.
+- [2022/07] 📄 [*Camera-LiDAR Fusion for Object Detection, Tracking and Prediction*](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210614) was published in Geomatics and Information Science of Wuhan University
+- [2022/05] 📄 [*Roll-Sensitive Online Camera Orientation Determination On The Structured Road*](https://isprs-archives.copernicus.org/articles/XLIII-B2-2022/687/2022/), a camera calibration algorithm based on the vanish point, was published in ISPRS Congress 2022.
+- [2021/03] 💼 I went to ArchDrive for an internship, working on lane detection and lane keeping.
 
 ## Education
 <img style="float: left; margin:5px 10px" src="../images/edu_whu.png" width="90" height="90">
