@@ -67,12 +67,8 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
 ### Separated RoadTopoFormer
 <p style="line-height:1.0">
   <font size="2">
-    <span class=pubauthor >
     Mingjie Lu<sup>*</sup>, <b>Yuanxian Huang<sup>*</sup></b>, Ji Liu, Jinzhang Peng, Lu Tian, Ashish Sirasao<br/>
-    </span>
-    <span class=publoc > 
-    Arxiv, 2023<br/>
-    </span>
+    <font color=#942E2E>Arxiv, 2023</font><br/>
     <a href="https://arxiv.org/abs/2307.01557">[paper]</a><br/>
   </font>
 </p>
@@ -83,7 +79,7 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
 <p style="line-height:1.0">
   <font size="2">
     <b>Yuanxian Huang</b>, Jian Zhou<sup>&dagger;</sup>, Xicheng Li, Zhen Dong, Jinsheng Xiao, Shurui Wang, Hongjuan Zhang<br/>
-    JAG 2023 (IF:7.5)<br/>
+    <font color=#942E2E>JAG 2023 (IF:7.5)</font><br/>
     <a href="https://www.sciencedirect.com/science/article/pii/S1569843223001590">[Paper]</a><a href="https://github.com/WHU-USI3DV/MENet">[Code]</a><br/>
   </font>
 </p>
@@ -95,7 +91,7 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
 <p style="line-height:1.0">
   <font size="2">
     Xiaomin Guo, Yongxing Cao, Jian Zhou, <b>Yuanxian Huang</b>, Bijun Li<sup>&dagger;</sup><br/>
-    Remote Sensing, 2023 (IF:5.0)<br/>
+    <font color=#942E2E>Remote Sensing, 2023 (IF:5.0)</font><br/>
     <a href="https://www.mdpi.com/2072-4292/15/2/487">[Paper]</a><br/>
   </font>
 </p>
@@ -107,7 +103,7 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
 <p style="line-height:1.0">
   <font size="2">
     Jian Zhou, Yuan Guo, Yaoan Bian, <b>Yuanxian Huang</b>, Bijun Li<br/>
-    IEEE Transactions on Intelligent Transportation Systems, 2022 (IF:8.5)<br/>
+    <font color=#942E2E>IEEE Transactions on Intelligent Transportation Systems, 2022 (IF:8.5)</font><br/>
     <a href="https://ieeexplore.ieee.org/document/9956852">[Paper]</a><br/>
   </font>
 </p>
@@ -118,7 +114,7 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
 <p style="line-height:1.0">
   <font size="2">
     Yongxing Cao, Bijun Li, Hongjuan Zhang<sup>&dagger;</sup>, Duanfeng Chu, <b>Yuanxian Huang</b>, Xiaomin Guo<br/>
-    CVCI, 2022<br/>
+    <font color=#942E2E>CVCI, 2022</font><br/>
     <a href="https://ieeexplore.ieee.org/document/9965066">[Paper]</a><br/>
   </font>
 </p>
@@ -131,7 +127,7 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
 <p style="line-height:1.0">
   <font size="2">
     <b>Yuanxian Huang</b>, Jian Zhou<sup>&dagger;</sup>, Bijun Li, Jinsheng Xiao, Yongxing Cao<br/>
-    ISPRS Congress, 2022<br/>
+    <font color=#942E2E>ISPRS Congress, 2022</font><br/>
     <a href="https://isprs-archives.copernicus.org/articles/XLIII-B2-2022/687/2022/">[Paper]</a><br/>
   </font>
 </p>
@@ -143,7 +139,7 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
 <p style="line-height:1.0">
   <font size="2">
     <b>Yuanxian Huang</b>, Bijun Li, Qi Huang, Jian Zhou<sup>&dagger;</sup>, Lanlan Wang, Jialin Zhu<br/>
-    Geomatics and Information Science of Wuhan University, 2022<br/>
+    <font color=#942E2E>Geomatics and Information Science of Wuhan University, 2022</font><br/>
     <a href="http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210614">[Paper]</a><br/>
   </font>
 </p>
