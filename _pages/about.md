@@ -11,6 +11,52 @@ redirect_from:
 I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan University](https://en.whu.edu.cn/), supervised by Prof. Bijun Li and Jian Zhou. Previously, I received my B.Eng. from [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University. My interest mainly focus on autonomous driving perception system, including 2D/3D object detection, BEV segmantic segmentation, online HD map construction, topology reasoning, occupancy network and so on. 
 
 
+## Education
+<img style="float: left; margin:5px 10px" src="../images/edu_whu.png" width="90" height="90">
+
+### Wuhan University (WHU)
+<p style="line-height:1.0">
+  <font size="2">
+    September 2021 - Present<br/>
+    Major: M.S. in Photogrammetry and Remote Sensing<br/>
+    Hornor: National Scholarship 2023<br/>
+  </font>
+</p>
+
+<img style="float: left; margin:5px 10px" src="../images/edu_whu.png" width="90" height="90">
+
+### Wuhan University (WHU)
+<p style="line-height:1.0">
+  <font size="2">
+    September 2017 - July 2021<br/>
+    Major: B.E. in Surveying and Mapping Engineering<br/>
+    Hornor: Excellent undergraduate graduates<br/>
+  </font>
+</p>
+
+## Experience
+<img style="float: left; margin:5px 10px" src="../images/exp_amd.png" width="90" height="90">
+
+### AMD
+<p style="line-height:1.0">
+  <font size="2">
+    March 2023 - October 2023<br/>
+    Position: Co-op/Intern, Algorithm R&D in AIG-AIE<br/>
+    Focus: Road Topology Reasoning, Model Pruning, Occupancy Network<br/>
+  </font>
+</p>
+
+<img style="float: left; margin:5px 10px" src="../images/exp_arcdrive.png" width="90" height="90">
+
+#### ArchDrive
+<p style="line-height:1.0">
+  <font size="2">
+    March 2021 - June 2021<br/>
+    Position: Intern, Perception Algorithm<br/>
+    Focus: Lane Detection, Lane Keeping<br/>
+  </font>
+</p>
+
 ## Publications
 
 \* denotes equal contributions and &dagger; denotes the corresponding author.
@@ -21,8 +67,12 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
 ### Separated RoadTopoFormer
 <p style="line-height:1.0">
   <font size="2">
+    <span class=pubauthor >
     Mingjie Lu<sup>*</sup>, <b>Yuanxian Huang<sup>*</sup></b>, Ji Liu, Jinzhang Peng, Lu Tian, Ashish Sirasao<br/>
+    </span>
+    <span class=publoc > 
     Arxiv, 2023<br/>
+    </span>
     <a href="https://arxiv.org/abs/2307.01557">[paper]</a><br/>
   </font>
 </p>
@@ -98,48 +148,3 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
   </font>
 </p>
 
-## Education
-<img style="float: left; margin:5px 10px" src="../images/edu_whu.png" width="90" height="90">
-
-### Wuhan University (WHU)
-<p style="line-height:1.0">
-  <font size="2">
-    September 2021 - Present<br/>
-    Major: M.S. in Photogrammetry and Remote Sensing<br/>
-    Hornor: National Scholarship 2023<br/>
-  </font>
-</p>
-
-<img style="float: left; margin:5px 10px" src="../images/edu_whu.png" width="90" height="90">
-
-### Wuhan University (WHU)
-<p style="line-height:1.0">
-  <font size="2">
-    September 2017 - July 2021<br/>
-    Major: B.E. in Surveying and Mapping Engineering<br/>
-    Hornor: National Scholarship 2023<br/>
-  </font>
-</p>
-
-## Experience
-<img style="float: left; margin:5px 10px" src="../images/exp_amd.png" width="90" height="90">
-
-### AMD
-<p style="line-height:1.0">
-  <font size="2">
-    March 2023 - October 2023<br/>
-    Position: Co-op/Intern, Algorithm R&D in AIG-AIE<br/>
-    Focus: Road Topology Reasoning, Model Pruning, Occupancy Network<br/>
-  </font>
-</p>
-
-<img style="float: left; margin:5px 10px" src="../images/exp_arcdrive.png" width="90" height="90">
-
-### ArchDrive
-<p style="line-height:1.0">
-  <font size="2">
-    March 2021 - June 2021<br/>
-    Position: Intern, Perception Algorithm<br/>
-    Focus: Lane Detection, Lane Keeping<br/>
-  </font>
-</p>
