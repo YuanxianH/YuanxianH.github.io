@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan University](https://en.whu.edu.cn/), supervised by Prof. Bijun Li and Jian Zhou. Previously, I received my B.Eng. from [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University. My interest mainly focus on autonomous driving perception system, including 2D/3D object detection, BEV segmantic segmentation, online HD map construction, topology reasoning, occupancy network and so on. Free feel to contact me via yxhuang@whu.edu.cn.
+I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan University](https://en.whu.edu.cn/), supervised by Prof. Bijun Li and Jian Zhou. Previously, I received my B.Eng. from [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University. My interest mainly focus on autonomous driving perception system, including 2D/3D object detection, BEV segmantic segmentation, online HD map construction, topology reasoning, occupancy network and so on. Free feel to contact me via yxhuang@whu.edu.cn .
 
 ## News
-- [2023/11] 🎂 I build this personal website.
+- [2023/11] 🎂 I built this personal website.
 - [2023/10] 🎓 I received the Graduate National Scholarship, 2022-2023.
 - [2023/07] 🥈 We won the 2nd place of [Autonomous Driving Challenge——OpenLane Topology](https://opendrivelab.com/AD23Challenge.html) in CVPR 2023 workshop. We published a technical report named [*Separated RoadTopoFormer*](https://arxiv.org/abs/2307.01557) to introduce our solution.
 - [2023/06] 📄 [*MENet*](https://www.sciencedirect.com/science/article/pii/S1569843223001590), a LiDAR detection method enhanced by HD map, was published in JAG(IF:7.5)
@@ -51,7 +51,7 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
 <p style="line-height:1.0">
   <font size="2">
     March 2023 - October 2023<br/>
-    Position: Co-op/Intern, Algorithm R&D in AIG-AIE<br/>
+    Position: Research Intern<br/>
     Focus: Road Topology Reasoning, Model Pruning, Occupancy Network<br/>
   </font>
 </p>
@@ -79,7 +79,7 @@ I'm a M.S. stundent of [LIESMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan Unive
   <font size="2">
     Mingjie Lu<sup>*</sup>, <b>Yuanxian Huang<sup>*</sup></b>, Ji Liu, Jinzhang Peng, Lu Tian, Ashish Sirasao<br/>
     Technical Report, 2023<br/>
-    <a href="https://arxiv.org/abs/2307.01557">[paper]</a><br/>
+    <a href="https://arxiv.org/abs/2307.01557">[Paper]</a><br/>
   </font>
 </p>
 
